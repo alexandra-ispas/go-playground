@@ -1,4 +1,4 @@
-package learning_go_book
+package main
 
 import "fmt"
 
